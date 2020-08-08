@@ -1,0 +1,33 @@
+$def with (data)
+<h2>Tabular view of the sorted Data </h2>
+
+<table style="width:100%">
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Email</th>
+	<th>Phone</th>
+  </tr>
+$if data:
+    $for var in data:
+	<tr>
+		<td>$var[0]</td>
+		<td>$var[1]</td>
+		<td>$var[2]</td>
+		<td>$var[3]</td>
+    </tr>
+$else:
+	<tr>
+		<td>No Data!</td>
+		<td>No Data!</td>
+		<td>No Data!</td>
+		<td>No Data!</td>
+    </tr>
+
+</table>
+
+
+
+
+
+
