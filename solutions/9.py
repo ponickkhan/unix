@@ -7,8 +7,6 @@ class Product:
         # Read lines
         file = open("products.txt" , 'r')
         Lines = file.readlines()
-
-        Customers = []
         count = 0
         for line in Lines:
             if count > 0:
@@ -27,3 +25,6 @@ class Product:
 
 obj = Product(3423)
 obj.search_product()
+
+obj2 = Product(9856)
+obj2.search_product()
