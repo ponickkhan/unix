@@ -1,0 +1,6 @@
+ID             Name                               CGPA
+1001           Nazrul                             3.56
+1002           Samiul Ahmed                       3.62
+1003           Shazid Anan                        3.10
+1004           Sajid bin habib jamal              2.50
+1005           Imran Hossain                      3.55
