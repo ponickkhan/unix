@@ -167,5 +167,3 @@ else:
     print("Username:", username)
     print("Domain Name:", domain)
 
-assignment 3 updated code.py
-Displaying assignment 3 updated code.py.
