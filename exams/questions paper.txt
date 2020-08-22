@@ -1,0 +1,24 @@
+Answer any five Questions:					4X5=20
+
+
+1.	Write a Python script to read a text file and print those lines of that file that contains the word ‘Java’.
+
+2.	"Write a python script to take an input as password. Check and print “The password is valid” based on following criteria, otherwise print “invalid password”.
+A. Minimum 8 character long.
+B. Must contains a special character.
+C. Minimum one capital letter, small letter and a number."
+
+3.	"Write a Python script using loop to display the following output:
+2, 8, 512, 134217728"
+
+4.	Write a Python script to read a text file of phone numbers in international format. Display the name of the country based on each phone number. Must use function with argument to do the task. [You have to write the code for at least three countries]
+
+5.	Write a python script to create a class named student that has a constructor to initialize the  student name, course code and marks and a method named grade() that will calculate the grade based on the marks and print the students name, course code and grade values.
+
+6.	"Create an HTML form with a field to take the employee post. Search and print the details of those employees of that post and count how many employees of that post exist in employee.txt  file.
+
+The fields of the employee.txt file are given below.
+
+Name            department          post           email        phone
+…                  …                         …             …             ...
+"
