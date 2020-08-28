@@ -1,4 +1,4 @@
-class Date:
+class B2Date:
     def __init__(self, d, m, y):
         self.d = d
         self.m = m
@@ -49,10 +49,10 @@ def getDifference(dt1, dt2):
 
 
 # Birth Date
-dt1 = Date(1, 2, 1996)
+dt1 = B2Date(1, 2, 1996)
 
 # Current Date
-dt2 = Date(27, 8, 2020)
+dt2 = B2Date(27, 8, 2020)
 
 years = getDifference(dt1, dt2) / 365
 print("Number of years is: ")
